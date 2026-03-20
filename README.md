@@ -39,14 +39,16 @@ Users can upload an image or capture it through a camera to analyze facial attri
 
 ---
 
-##  How to Run Locally
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ##  Output
-<img width="1366" height="768" alt="{D59985BF-2219-4AA5-A7E1-AEB2EC86EB30}" src="https://github.com/user-attachments/assets/762b2e2d-a6fa-4b01-984f-74158071db81" />
+<img width="1366" height="768" alt="{A572A43A-E9A9-4A1F-A162-74A8670AFD9C}" src="https://github.com/user-attachments/assets/d7d57318-a002-4ffc-95fe-058fb5eb32c5" />
 
 ##  Author
 Induja B
+
